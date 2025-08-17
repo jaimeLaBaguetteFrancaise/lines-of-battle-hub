@@ -2,7 +2,7 @@
   "gameplay": "Jouabilité",
   "graphics": "Graphismes",
   "camera": "Caméra",
-  "sound": "Son",
+  "sound": "Audio",
   "language": "Langue",
 
   "multiTurnOrders": {
@@ -14,22 +14,22 @@
   },
   "edgePanning": {
     "title": "Défilement sur les bords",
-    "description": "Active le défilement lorsque la souris atteint les bords de l'écran (PC)."
+    "description": "Se déplace lorsque la souris atteint les bords de l'écran (ORDINATEUR)."
   },
   "useTouchControls": {
     "title": "Utiliser les contrôles tactiles",
-    "description": "Si activé, utilise des contrôles comme sur un appareil tactile. Si désactivé, utilise des contrôles comme sur un PC."
+    "description": "Si activé, utilise des contrôles comme sur un appareil tactile. Si désactivé, utilise des contrôles comme sur un ordinateur."
   },
   "allowTouchSelectionBox": {
     "title": "Permettre la boîte de sélection tactile",
     "description": "Active les boîtes de sélection sur les appareils tactiles pour sélectionner plusieurs unités à la fois."
   },
   "smartCurvedMovements": {
-    "title": "Mouvements courbés intelligents",
-    "description": "Active cette option pour optimiser les trajets de mouvement avec des courbes fluides, réduisant la perte de vitesse lors des rotations."
+    "title": "Mouvements courbés intelligemment",
+    "description": "Active cette option pour optimiser la trajectoire de mouvement avec des courbes fluides, réduisant la perte de vitesse lors des rotations."
   },
   "openSelectOrderModal": {
-    "title": "Ouvrir la fenêtre modale de sélection d'ordres",
+    "title": "Ouvrir la fenêtre modale des sélections d'ordres",
     "description": "Active cette option pour afficher une fenêtre modale permettant de sélectionner des ordres pendant le jeu."
   },
   "showNewBattleEventsModal": {
@@ -41,7 +41,7 @@
   },
   "smartReplayCamera": {
     "title": "Caméra intelligente de replay",
-    "description": "Permet à la caméra spectatrice de se concentrer automatiquement sur l'action pendant les replays."
+    "description": "Permet à la caméra spectatrice de se concentrer automatiquement sur l'action pendant les retransmissions."
   },
   "smartReplayCameraZoom": {
     "title": "Zoom de la caméra intelligente de replay"
@@ -50,7 +50,7 @@
     "title": "Sensibilité du zoom"
   },
   "cameraSensibility": {
-    "title": "Sensibilité de la caméra (PC)"
+    "title": "Sensibilité de la caméra (ORDINATEUR)"
   },
   "replaySpeed": {
     "title": "Vitesse de replay"
@@ -66,7 +66,7 @@
   },
   "shadows": {
     "title": "Ombres",
-    "description": "Active les ombres sur les unités. Cela peut nécessiter que le jeu passe un tour pour que les unités soient mises à jour."
+    "description": "Active les ombres sur les unités. Cela nécessite que le jeu fasse un tour pour que les unités soient mises à jour."
   },
   "fullScreen": {
     "title": "Plein écran",
@@ -75,7 +75,7 @@
   },
   "resetSettings": {
     "title": "Réinitialiser les paramètres",
-    "description": "Restaure tous les paramètres à leurs valeurs par défaut. Cette action écrasera toutes les personnalisations que vous avez effectuées."
+    "description": "Restaure tous les paramètres à leurs valeurs par défaut. Cette action supprimera toutes les personnalisations que vous avez effectuées."
   },
   "reset": "Réinitialiser",
 
@@ -85,17 +85,17 @@
   "spaceBetweenLines": "Espace entre les lignes",
 
   "showChat": {
-    "title": "Afficher le chat"
+    "title": "Afficher la discussion"
   },
 
   "keybindings": {
     "title": "Raccourcis clavier",
-    "pressAKey": "Appuie sur une touche...",
+    "pressAKey": "Appuie sur n'importe quelle touche…"
     "moveUp": "Monter",
     "moveDown": "Descendre",
     "moveLeft": "Aller à gauche",
     "moveRight": "Aller à droite",
-    "info": "Info",
+    "info": "Informations",
     "submitOrders": "Soumettre les ordres",
     "deselect": "Désélectionner",
     "moveOrder": "Ordre de déplacement",
@@ -104,8 +104,8 @@
     "fireAndAdvanceOrder": "Ordre de tirer et avancer",
     "fallbackOrder": "Ordre de repli",
     "toggleFormation": "Basculer la formation",
-    "toggleSmartCurvedMovements": "Basculer les mouvements courbés intelligents",
-    "openChat": "Ouvrir le chat"
+    "toggleSmartCurvedMovements": "Activer les mouvements courbés intelligemment",
+    "openChat": "Ouvrir la discussion"
   },
   "routingTransparency": {
     "title": "Transparence des unités en déroute"
